@@ -4,6 +4,7 @@
 
 1. WEB
     - W3C
+    - 웹표준
 
 2. 코드 에디터와 환경 설정
     - 코드 에디터의 정의와 종류
@@ -44,9 +45,13 @@
     - 크로스 브라우징과 vendor prefix
     - transform과 transition
     - flexbox
+    - CSS 방법론: OOCSS, BEM
+    - CSS 전처리기: Sass, Less
     
 3. 웹 접근성(Web Accessibility)
   
 4. JavaScript
     - JavaScript
     - jQuery
+
+5. 컴포넌트(coponent)
