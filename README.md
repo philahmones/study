@@ -14,16 +14,18 @@
 3. HTML
     - HTML
     - tag와 element
-    - block과 inline
+    - block element과 inline element
     - semantic tag
     - id와 class
     - Entities
+    - HTML5
 
 4. CSS
     - CSS
     - 선택자와 우선 순위
     - 박스 모델
     - 주요 CSS 속성과 단위
+    - CSS3
     - CSS 선언 순서에 대한 고찰
 
 
@@ -38,10 +40,13 @@
     - 반응형 웹 그리드 시스템
 
 2. CSS
+    - 조건 주석문
     - 크로스 브라우징과 vendor prefix
-    - Transform
-    - Flexbox
+    - transform과 transition
+    - flexbox
+    
+3. 웹 접근성(Web Accessibility)
   
-3. JavaScript
+4. JavaScript
     - JavaScript
     - jQuery
