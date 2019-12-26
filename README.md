@@ -54,4 +54,4 @@
     - JavaScript
     - jQuery
 
-5. 컴포넌트(coponent)
+5. 컴포넌트(component)
